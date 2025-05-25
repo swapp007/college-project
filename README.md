@@ -33,9 +33,6 @@ copy and paste in the MYSQL workbench
 2. In url tab write (http://localhost:5500/index.html).
 3. and you are all set.
 
-# Some points to rember
-
-This is our first project so their will be some minor issues.
 
 # Screen shorts
 ![gitss2](https://github.com/user-attachments/assets/1414d8e4-14f0-42d9-bef5-c68faa1488ce)
@@ -59,7 +56,6 @@ This is our first project so their will be some minor issues.
 
 # This is the team project
 Team member and their role
-1. Pushendra2020
+1. swapneswar
 2. Role: Back-end and adding functionality.
-3. Soham
-4. Role: Front-end and designing the website.
+3. Role: Front-end and designing the website.
